@@ -1,4 +1,4 @@
-#Flight-Analytics-Dashboard
+Flight-Analytics-Dashboard
 
 Introduction:
 A flight delay is a serious and a widespread problem in the United States. An increasing flight delay is having a significant impact not just on the US air travel system but also on the cost of airlines and passenger inconvenience costing billions of dollars each year(Ball, et.al, 2010). It is seen that delay increases non-linearly as demand approaches the capacity in the system. Passengers look for reduced travel time while booking a flight. Due to a delay on one occasion, a passenger may refrain from opting that particular airline as a result of discontent(Cook, 2009).
